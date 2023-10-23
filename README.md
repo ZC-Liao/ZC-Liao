@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**ZC-Liao/ZC-Liao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  I'm Zicheng Liao, a **Newbie** from China.
 - 🔭 I’m a student from Beijing University of Chemical Technology. 
 - 🌱 I’m currently learning Python, C++
 - 🤔 I’m looking for help with **many** problems.
